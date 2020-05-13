@@ -1,0 +1,17 @@
+{
+  "name": "d3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/d3": "^5.7.2",
+    "d3": "^5.16.0",
+    "parcel": "^1.12.4"
+  },
+  "scripts": {
+    "dev": "parcel src/*.html"
+  },
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
+}
